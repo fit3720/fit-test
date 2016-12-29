@@ -19,8 +19,8 @@ public class RunFirst {
     public static void main(String[] args) {
         final OAuthService service = new ServiceBuilder()
                 .provider(FitBitApi.class)
-                .apiKey("072da8f40cc44adc96b9f5193eba0f3d")
-                .apiSecret("95b29592f1994d15b15099ea29556aaa")
+                .apiKey("2287KV")
+                .apiSecret("1e938f5882a9961f3055b442abdcc31a")
                 .build();
 
         Scanner in = new Scanner(System.in);
